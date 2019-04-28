@@ -24,13 +24,6 @@
 </head>
 
 <body class="{bodyClass} skin-<!-- IF bootswatchSkin -->{bootswatchSkin}<!-- ELSE -->noskin<!-- END -->">
-    <div class="content thetop">
-      <div class="container">
-          <div class="row">
-            <div class="col-sm-6 col-md-4"><a href="#"><img src="/public/images/logo3.svg" width="180" height="100" border="0"></a></div>
-          </div>
-      </div>
-    </div>
 	<nav id="menu" class="slideout-menu hidden">
 		<!-- IMPORT partials/slideout-menu.tpl -->
 	</nav>
@@ -40,6 +33,13 @@
 
 	<main id="panel" class="slideout-panel">
 		<nav class="navbar navbar-default navbar-fixed-top header" id="header-menu" component="navbar">
+			<div class="content thetop">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-6 col-md-4"><a href="#"><img src="/public/images/logo3.svg" width="180" height="100" border="0"></a></div>
+					</div>
+				</div>
+			</div>
 			<div class="container">
 				<!-- IMPORT partials/menu.tpl -->
 			</div>
