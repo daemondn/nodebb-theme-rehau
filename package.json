@@ -1,0 +1,22 @@
+{
+  "name": "nodebb-theme-rehau",
+  "version": "1.0.0",
+  "description": "Rehau theme",
+  "main": "theme.less",
+  "keywords": [
+
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Dmitry Dneprov",
+    "email": "daemondn@gmail.com",
+    "url": "http://rehaupro.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daemondn/nodebb-theme-rehau"
+  },
+  "bugs": {
+    "url": "https://github.com/daemondn/nodebb-theme-rehau/issues"
+  }
+}
