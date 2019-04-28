@@ -27,7 +27,7 @@
     <div class="content thetop">
       <div class="container">
           <div class="row">
-            <div class="col-sm-6 col-md-4"><a href="#"><img src="/plugins/nodebb-theme-rehau/images/logo3.svg" width="180" height="100" border="0"></a></div>
+            <div class="col-sm-6 col-md-4"><a href="#"><img src="/public/images/logo3.svg" width="180" height="100" border="0"></a></div>
           </div>
       </div>
     </div>
