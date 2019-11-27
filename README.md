@@ -1,2 +1,0 @@
-# nodebb-theme-rehau
-
