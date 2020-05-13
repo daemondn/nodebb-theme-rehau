@@ -1,6 +1,7 @@
-# Credits
+Persona theme for NodeBB
+====================
 
-Material theme by [pichalite](https://github.com/pichalite).
+Based on persona - is the new default theme for NodeBB as of v0.7.1
 
 # Build 
 

@@ -1,0 +1,1 @@
+<small data-editor="{editor.userslug}" component="post/editor" class="hidden g__hidden">[[global:last_edited_by, {editor.username}]] <span class="timeago g__timeago" title="{editedISO}"></span></small>

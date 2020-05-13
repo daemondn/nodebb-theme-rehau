@@ -1,6 +1,7 @@
 {
     "id": "nodebb-theme-rehau",
-    "name": "Rehau Theme",
-    "description": "Rehau Theme",
-    "url": "https://github.com/daemondn/nodebb-theme-rehau"
+    "name": "Rehau",
+    "description": "The default theme for Rehau",
+    "url": "https://github.com/",
+    "screenshot": "screenshot.png"
 }
